@@ -1,4 +1,4 @@
-## hola este es un README
-doble espacio es cambio de linea
+## Hola este es un README
+Doble enter/return es cambio de linea
 
 `entre acentos grave se escribe un codigo`
